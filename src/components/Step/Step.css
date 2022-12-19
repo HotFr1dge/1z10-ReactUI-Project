@@ -1,0 +1,6 @@
+div.Step {
+	display: flex;
+	align-items: center;
+	padding: 1em;
+	margin-left: auto;
+}

@@ -1,0 +1,8 @@
+div.Question {
+	margin: auto;
+	border: 2px solid white;
+	background-color: #182a47;
+	text-align: left;
+	border-radius: 15px;
+	padding: 1em;
+}

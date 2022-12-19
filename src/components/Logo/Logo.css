@@ -1,0 +1,7 @@
+img.Logo {
+	padding: 15px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1 !important;
+}
